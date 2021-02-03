@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
 **smonff/smonff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+![smonff's github stats](https://github-readme-stats.vercel.app/api?username=smonff&count_private=true&show_icons=true)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on an [Art World simulation project](https://metacpan.org/pod/Art::World)
+- 🌱 I’m currently learning the drums and getting better at Perl
+- 👯 I’m looking for a job
+- 🐄 I’m looking for help with Emacs and getting better at the drums
+- 💬 Ask me about Perl and art stuff
+- 📫 How to reach me: https://hi.balik.network
+- 🤔 Pronouns: they/them, iels
+- 😾 Fun fact: I love my cat!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
