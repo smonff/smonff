@@ -15,4 +15,3 @@ I am mostly on Github for contributing to your projects. My own personnal things
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 [![Les Stats GitHub de smonff](https://github-readme-stats.vercel.app/api?username=smonff)](https://github.com/anuraghazra/github-readme-stats)
 
-Those stats are total bullshit: I don't even use Github and I got `A+`? Dunno, I guess I should get a `D` or something...
