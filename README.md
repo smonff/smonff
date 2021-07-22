@@ -13,6 +13,6 @@ I am mostly on Github for contributing to your projects. My own personnal things
 
 <!-- **smonff/smonff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![smonff's github stats](https://github-readme-stats.vercel.app/api?username=smonff&count_private=true&show_icons=true)
+[![Les Stats GitHub de smonff](https://github-readme-stats.vercel.app/api?username=smonff)](https://github.com/anuraghazra/github-readme-stats)
 
 Those stats are total bullshit: I don't even use Github and I got `A+`? Dunno, I guess I should get a `D` or something...
