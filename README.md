@@ -2,9 +2,8 @@
 
 I am mostly on Github for contributing to your projects. My own personnal things are on [Codeberg](https://codeberg.org/smonff). Please check them out!
 
-- 🐍 Currently looking for a job and learning Python
-- 🔭 I worked on an [Art World simulation project](https://metacpan.org/pod/Art::World)
-- 🌱 I’m currently learning the drums and getting better at Perl
+- 🌱🐍 Currently looking for a job, learning Python and also the drums
+- 🔭 I worked on an [Art World simulation project](https://metacpan.org/pod/Art::World) 
 - 👯 I’m looking for a job, [get my CV](https://hi.balik.network/fr/cv_sebastien_feugere_2020-06-12.pdf)
 - 🐄 I’m looking for help with Emacs and getting better at the drums
 - 💬 Ask me about Perl and art stuff
