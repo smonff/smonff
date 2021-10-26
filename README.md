@@ -5,7 +5,7 @@ I am mostly on Github for contributing to your projects. My own personnal things
 - 🌱 Currently working as a contractor with [All Around The World](https://allaroundtheworld.fr/) 
 - 🔭 I worked on an [Art World simulation project](https://metacpan.org/pod/Art::World) 
 - 💬 Ask me about Perl and art stuff
-- 📫 How to reach me: https://hi.balik.network
+- 📫 Simpliest way to reach https://hi.balik.network/contact
 - 🤔 Pronouns: they/them, iels
 - 🐄 I’m looking for help with Emacs and getting better at the drums
 - 😾 Fun fact: I love my cat and I collect plush animals!
