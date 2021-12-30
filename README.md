@@ -1,14 +1,14 @@
 # Hi there 👋
 
-I am mostly on Github for contributing to your projects. My own personnal things are on [Codeberg](https://codeberg.org/smonff). Please check them out!
-
 - 🌱 Currently working as a contractor with [All Around The World](https://allaroundtheworld.fr/) 
-- 🔭 I worked on an [Art World simulation project](https://metacpan.org/pod/Art::World) 
-- 💬 Ask me about Perl and art stuff
-- 📫 Simpliest way to reach https://hi.balik.network/contact
+- 📫 Feel free to send a message https://hi.balik.network/contact
 - 🤔 Pronouns: they/them, iels
+- 🔭 I worked on an [Art World simulation project](https://metacpan.org/pod/Art::World) 
+- 💬 Ask me about Perl and art 
 - 🐄 I’m looking for help with Emacs and getting better at the drums
 - 😾 Fun fact: I love my cat and I collect plush animals!
+
+Personal projects on [Codeberg](https://codeberg.org/smonff).
 
 <!-- - 👯 I’m looking for a job, [get my CV](https://hi.balik.network/fr/cv_sebastien_feugere_2020-06-12.pdf) -->
 
