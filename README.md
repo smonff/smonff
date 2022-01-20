@@ -8,7 +8,7 @@
 - 🐄 I’m looking for help with Emacs and getting better at the drums
 - 😾 Fun fact: I love my cat and I collect plush animals!
 
-Personal projects on [Codeberg](https://codeberg.org/smonff).
+Some code I wrote is available on [Codeberg](https://codeberg.org/smonff).
 
 <!-- - 👯 I’m looking for a job, [get my CV](https://hi.balik.network/fr/cv_sebastien_feugere_2020-06-12.pdf) -->
 
