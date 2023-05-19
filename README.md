@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🌱 Currently working as a contractor with [All Around The World](https://allaroundtheworld.fr/) 
+- 🌱 Currently working as at [The state51 Music Group](https://state51.com/) 
 - 📫 Feel free to send a message https://hi.balik.network/contact
 - 🤔 Pronouns: they/them, iels
 - 🔭 I worked on an [Art World simulation project](https://metacpan.org/pod/Art::World) 
