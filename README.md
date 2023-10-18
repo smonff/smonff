@@ -5,7 +5,7 @@
 - 🤔 Pronouns: they/them, iels
 - 🔭 I worked on an [Art World simulation project](https://metacpan.org/pod/Art::World) 
 - 💬 Ask me about Perl and art 
-- 🐄 I’m looking for help with Emacs and getting better at the drums
+- 🐄 I’m looking for help at configuring LSP on Emacs and getting better at playing the synthesizer
 - 😾 Fun fact: I love my cat and I collect plush animals!
 
 Some code I wrote is available on [Codeberg](https://codeberg.org/smonff).
